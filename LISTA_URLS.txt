@@ -1,0 +1,4 @@
+ARENA FUTESTORE — ATUALIZAÇÃO DE URLS
+Todas as 31 imagens estão no arquivo config.js.
+Os 20 links de catálogos enviados também foram preenchidos.
+Confira LINKS_PENDENTES.txt para os quatro links de catálogo que faltam.
